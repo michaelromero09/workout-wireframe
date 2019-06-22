@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  padding: 10px;
+  background-color: lightgray;
+  text-align: center;
+}
+
+h2 {
+  display: inline-block;
+}
+
+a {
+  float: right;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.exercise {
+  margin-bottom: 5px;
+}
+
+p {
+  display: inline-block;
+}
+
+input {
+  width: 30px;
+}
+
+button {
+  padding: 3px;
+}
